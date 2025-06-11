@@ -8,6 +8,7 @@ def prepare_workspace():
     print("🔪 Sharpening knives...")
     print("🍽️ Setting up plates...")
     print("✅ Kitchen is ready for cooking!")
+    print("one more time")
 
 def main():
     """Main function - what happens when we run this recipe book directly"""
