@@ -22,6 +22,7 @@ def main():
     prepare_workspace()
     
     print("🍳 Ready to start cooking!")
+    print("small change!!")
 
 # This only runs when we're testing THIS recipe book directly
 if __name__ == "__main__":
