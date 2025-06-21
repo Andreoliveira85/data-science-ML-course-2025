@@ -3,3 +3,5 @@ venv/
 .ipnyb_checkpoints/
 
 .vscode/ 
+
+.data/
