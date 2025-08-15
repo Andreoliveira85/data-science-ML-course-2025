@@ -1,5 +1,7 @@
 venv/
 
+venv312/
+
 .ipnyb_checkpoints/
 
 .vscode/ 
